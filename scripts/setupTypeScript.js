@@ -110,8 +110,3 @@ fs.writeFileSync(path.join(projectRoot, ".vscode", "extensions.json"), `{
 }
 `)
 
-
-
-if (fs.existsSync(path.join(projectRoot, "node_modules"))) {
-  
-}
