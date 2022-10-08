@@ -1,8 +1,10 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
----
 
-# svelte app
+# Roy Rubio (Svelte Portfolio)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b71b2b5-e2d1-44cb-b24b-31ea136d3850/deploy-status)](https://app.netlify.com/sites/rubio-haro/deploys)
+
+
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
